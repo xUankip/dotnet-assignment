@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Dotnet_Assignment
+build_property.RootNamespace = Dotnet_Assignment
+build_property.ProjectDir = /Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/ComicBook/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29taWNCb29rL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/ComicBook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29taWNCb29rL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/ComicBook/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29taWNCb29rL1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/Rental/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudGFsL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/RentalDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVudGFsRGV0YWlsL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/truongnx/RiderProjects/Dotnet-Assignment/Dotnet-Assignment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9l3vgj8a9y

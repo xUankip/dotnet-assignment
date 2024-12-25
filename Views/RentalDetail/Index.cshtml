@@ -1,0 +1,39 @@
+@model IEnumerable<RentalDetail>
+
+<h1>Rental Report</h1>
+
+<form method="get">
+    <div class="form-group">
+        <label>Start Date</label>
+        <input type="date" name="startDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>End Date</label>
+        <input type="date" name="endDate" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Book Name</th>
+        <th>Rental Date</th>
+        <th>Return Date</th>
+        <th>Customer Name</th>
+        <th>Quantity</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.ComicBook.Title</td>
+        <td>@item.Rental.RentalDate.ToShortDateString()</td>
+        <td>@item.Rental.ReturnDate?.ToShortDateString()</td>
+        <td>@item.Rental.Customer.FullName</td>
+        <td>@item.Quantity</td>
+    </tr>
+    }
+    </tbody>
+</table>
